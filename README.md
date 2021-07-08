@@ -5,7 +5,7 @@
 * Task Details [pdf ](https://pehaa.xyz/perso/presentations/desk/themes-enfant-intro)
 ### **Realisation**  
   * new folder in theme : gridbox-child
-  * add files: **style.css** , **functions.php**, **foter.php** 
+  * add files: **style.css** , **functions.php**, **footer.php** 
 
 ### Deploy: <br> 
 [! ([link] to add)<br> 
